@@ -1,6 +1,0 @@
-f=open('write_data','w')
-f.write('luminar\n')
-f.write('dl\n')
-f.write('data\n')
-f.write('pass\n')
-f.write('sass\n')

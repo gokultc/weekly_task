@@ -1,0 +1,17 @@
+This is a bmi calculator using python. calculator shows bmi value and the category the user is currently in.
+
+how it works:
+enter the weight in kg
+enter the height in cm
+
+it converts the height in cm into m
+calculate it
+
+to run :
+open command prompt
+python BMI_calulator.py
+
+what i learned:
+functions
+try and except
+bmi calculation
